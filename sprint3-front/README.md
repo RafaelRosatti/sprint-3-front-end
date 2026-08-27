@@ -1,16 +1,54 @@
-# React + Vite
+📸 MoodShot
+A câmera que entende o momento.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O MoodShot é uma proposta de inovação para a câmera do próximo smartphone Jovi, desenvolvida pela Apexxon Consultoria.
 
-Currently, two official plugins are available:
+A ideia é utilizar Inteligência Artificial para tornar a câmera mais simples e inteligente, adaptando-se ao contexto da foto e facilitando o compartilhamento nas redes sociais.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+💡 Funcionalidades
+🎯 Seleção do momento: Festa, Estudo, Viagem e Encontro.
+🤖 IA para enquadramento e filtros.
+💬 Sugestão de legendas para redes sociais.
+📸 Experiência simples e automática.
+🧭 Como funciona
+Abrir a câmera
+Escolher o momento
+Visualizar a foto e legenda
+Compartilhar
 
-## React Compiler
+Esse fluxo foi apresentado no protótipo do projeto.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tecnologias
+React
+Vite
+Tailwind CSS
+JavaScript
+HTML
+CSS
+🎨 Identidade visual
 
-## Expanding the ESLint configuration
+O projeto utiliza uma identidade baseada em:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌑 Fundo escuro
+🔵 Azul
+🟠 Laranja
+🟣 Roxo
+⚪ Texto claro
+
+A Landing Page segue a identidade visual apresentada no pitch.
+
+👥 Equipe
+Matheus Donas Vieira
+Rafael Rosatti de Paula
+José Henrique Oliveira de Lira
+Mateus Rodrigues Tavares
+Enzo Cassiano Machado
+▶️ Como executar
+npm install
+npm run dev
+
+Depois, acesse o endereço fornecido pelo Vite.
+
+MoodShot · Apexxon Consultoria · 2026
+
+A câmera que entende você.
